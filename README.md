@@ -14,18 +14,63 @@ I also added a comment for the bootstrap CSS where I copied and pasted the CSS b
 
 This helps keeping the coding organised. 
 
+I added a section inside the body and started ny adding a navigation bar.
+I also added a comment for this pecific section to help keep the code organised. 
 
+I changed to colour of the navigation bar from light to dark and I pout the whole navigation bar inside of a container because it centers all the content of this bar. 
+
+I chnaged the name of the links at the navigation bar to suit my needs. 
+
+I broke down the remaining section of this website/portfolio in comments to make easier for me to work on each section at a time. 
+
+
+<!-- Welcome section: Jumbotron header-->
+
+I created to navbar from scratch. Changed the background to secondary and the text to white to match the Mockup given. 
+
+
+<!-- Work section -->
+
+At this section, I added a section with a class called container. I created a div to create another container and a h1 of "My work" 
+
+I then created another div to create another container to make possible to display an image and a link for each on of my projects. I gave this div a class called "row" because this continaer will display 2 images and 2 links in a row. 
+
+Within this container I created another div and gave it a class of "col-lg-5"
+
+I created another div with a class named "card" because this is what it is. I added a placeholder image within this card. 
+
+I created a new div and gave it a class called "card-body" to be able to write down a headline on the card. 
+
+I created on more div and classed it as "card-text" to be able to add a text or description like shows on the mockup. 
+
+Lastly I created another div and classed it as "card-footer" to be able to put a button in there so people can clikc on the link and be directed to the project's page.
+
+After creating this one card I copied and pastied another 3 to create 4 cards with 4 images correspondent to 4 different projects. 
+
+
+<!-- About me section -->
+
+After this I created a new section to work on the About Me section.  Within this section I created a container. added a couple of other divs to put an image and make it rounded and put a headline "About me" and a paragraph. 
+
+I added a link to make possible for people to download my resume. 
+
+I also added the download icon from the font awesome website. 
+
+
+<!-- Footer -->
+
+Then I added a footer with all the icons from the font awesome website as well. 
 
 
 # Deployed link:
-https://melissapazzanese123.github.io/homework-1-challenge/
+
 
 
 
 ## Usage 
 
 # Screenshot link:
-https://github.com/melissapazzanese123/homework-1-challenge/tree/main/assets/images
+
 
 
 ## Credits
