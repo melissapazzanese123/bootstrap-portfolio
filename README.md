@@ -63,8 +63,7 @@ Then I added a footer with all the icons from the font awesome website as well.
 
 
 # Deployed link:
-
-
+https://melissapazzanese123.github.io/bootstrap-portfolio/
 
 
 ## Usage 
