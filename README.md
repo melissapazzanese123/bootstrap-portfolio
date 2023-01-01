@@ -77,11 +77,13 @@ https://github.com/melissapazzanese123/bootstrap-portfolio/blob/main/IMAGES/Scre
 https://github.com/melissapazzanese123/bootstrap-portfolio/blob/main/IMAGES/Screenshot%202023-01-01%20at%2017.08.01.png
 
 # Screenshot:
-[label](IMAGES/Screenshot%202023-01-01%20at%2017.07.51.png%0D) 
-[label](IMAGES/Screenshot%202023-01-01%20at%2017.07.57.png%0D) 
+
+![Alt text](IMAGES/Screenshot%202023-01-01%20at%2017.07.51.png)
+
+![Alt text](IMAGES/Screenshot%202023-01-01%20at%2017.07.57.png)
+
+
 ![Alt text](IMAGES/Screenshot%202023-01-01%20at%2017.08.01.png)
-
-
 
 ## Credits
 
